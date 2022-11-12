@@ -13,5 +13,5 @@ Description will be added here
 **Traffic Count**: https://data.wprdc.org/dataset/traffic-count-data-city-of-pittsburgh/resource/6dfd4f8f-cbf5-4917-a5eb-fd07f4403167
 
 ## A Brief Overview 
-Overview will be added here 
+Our project is on the best neigborhood for a reality TV show. The best way to increase ratings is by increasing drama. That is why we have put together a chaotic group of data that will boost viewer entertainment. 
  
