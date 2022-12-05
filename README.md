@@ -6,8 +6,11 @@ Johanna Luke: jol170@pitt.edu
 
 ## Analysis Notebooks:
 **Playgrounds**: Kiana Kazemi
+
 **High Crime** : Johanna Luke
+
 **Traffic Count**: Johanna Luke and Kiana Kazemi
+
 **Final Notebook**: Johanna Luke and Kiana Kazemi
 
 ## Datasets
